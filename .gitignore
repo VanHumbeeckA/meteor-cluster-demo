@@ -1,0 +1,5 @@
+.meteor/local
+*/.meteor/local
+.vagrant
+settings.json
+*/settings.json

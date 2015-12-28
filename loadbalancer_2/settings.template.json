@@ -1,0 +1,5 @@
+{
+	"mongo_user": "username",
+	"mongo_password": "password",
+	"mongolab_uri": ""
+}
